@@ -1,0 +1,11 @@
+Package: didjack
+Title: Cluster Jackknife CV3 for Callaway-Sant'Anna DID
+Version: 0.1.0
+Authors@R: person("Yunhan", "Liu", role = c("aut","cre"), email = "max.yunhan.liu@gmail.com")
+Description: Post-estimation CV3 (delete-one cluster) jackknife for the Callaway-Sant'Anna DID estimator implemented in the did package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends: R (>= 4.1.0)
+Imports: did, stats
