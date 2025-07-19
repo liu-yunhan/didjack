@@ -9,3 +9,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
 Depends: R (>= 4.1.0)
 Imports: did, stats
+URL: https://github.com/Cypheru5/didjack
+BugReports: https://github.com/Cypheru5/didjack/issues
