@@ -28,7 +28,7 @@ gt <- att_gt(
   bstrap      = FALSE
 )
 
-ag  <- aggte(gt, type = "simple")
+ag  <- aggte(gt)
 
 res <- didjack(ag)          # default: reuse original cluster variable and confidence level = 0.95
 summary(res)                # formatted CV3 results
