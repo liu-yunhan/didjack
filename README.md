@@ -1,5 +1,5 @@
 # didjack
-Cluster jackknife (CV3) inference for Callaway–Sant’Anna DID estimator  <br>
+Cluster jackknife (CV3) inference for the Callaway–Sant’Anna DID estimator  <br>
 This is a post-estimation program for [did (Brantly Callaway and Pedro H. C. Sant'Anna)
 ](https://bcallaway11.github.io/did/index.html)
 ## Installation 
